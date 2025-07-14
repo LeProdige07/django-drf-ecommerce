@@ -24,6 +24,10 @@ pip install djangorestframework
 
 pip install pytest-django
 
+pip install black
+
+pip install flake8
+
 ## Pytest 
 
 pytest -h   # prints options _and_ config file settings
